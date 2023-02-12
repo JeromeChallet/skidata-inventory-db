@@ -1,0 +1,1 @@
+# skidata-inventory-db
